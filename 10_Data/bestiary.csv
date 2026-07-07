@@ -1,0 +1,11 @@
+id,name,category,biome,hp,armor,damage,abilities,reward_design
+rust_beast,Rust Beast,Mutated Beast,Ashlands,680,3,36,Rust Stack bite,Guards minor abyssal nodes
+ash_wraith,Ash Wraith,Spirit,Ashlands,420,0,28,Ash Blindness and phase movement,Early-mid magic creep
+ironhide_stalker,Ironhide Stalker,Mutated Beast,Iron Mountains,760,5,42,Armor shred leap,Contests mountain passes
+caldera_hound,Caldera Hound,Mutated Beast,Great Caldera,520,2,34,Burning trail,Fast pack creep
+star_forge_guardian,Star-Forge Guardian,Ancient Guardian,Ancient Ruins,1800,7,70,Phase shield and beam sweep,Relic fragment guardian
+obsidian_sentinel,Obsidian Sentinel,Ancient Guardian,Obsidian Pass,1500,8,60,Ground slam,Controls choke objective
+reef_lurker,Reef Lurker,Natural Beast,Thalassian Coast,390,1,22,Ambush from water,Early coastal creep
+delta_serpent,Delta Serpent,Natural Beast,Southern Delta,850,2,48,Tide drag and poison bite,Controls river crossing
+abyssal_colossus,Abyssal Colossus,Boss,Ashlands,5000,10,120,Heart pulse stomp rust aura,Major relic and map event
+heart_avatar,Heart Avatar,Final Boss,Great Caldera,9000,12,160,Multi-phase corruption and terrain shift,Campaign finale objective
