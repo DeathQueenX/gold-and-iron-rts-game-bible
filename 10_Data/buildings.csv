@@ -1,0 +1,16 @@
+id,faction,name,type,cost_primary,cost_secondary,hp,armor,function,unlocks
+ferrum_iron_hall,Ferrum,Iron Hall,Command,400 Iron,120 Coal,2400,8,Main base,Workers and tier upgrades
+ferrum_forge_yard,Ferrum,Forge Yard,Production,180 Iron,60 Coal,1100,5,Infantry production,Iron Guard and Forge Pike
+ferrum_great_furnace,Ferrum,Great Furnace,Tech,250 Iron,180 Coal,1300,6,Forge Heat generation,Advanced armor upgrades
+ferrum_siege_foundry,Ferrum,Siege Foundry,Production,260 Iron,220 Coal,1250,5,Siege production,Cannon Battery and Steam Ram
+ferrum_iron_bastion,Ferrum,Iron Bastion,Defense,150 Iron,80 Coal,1500,9,Defensive tower,Reinforced Mode
+aurelia_solar_forum,Aurelia,Solar Forum,Command,350 Sunstone,150 Coin,1900,4,Main base,Workers and Authority decrees
+aurelia_radiant_barracks,Aurelia,Radiant Barracks,Production,160 Sunstone,80 Coin,850,3,Infantry production,Solar Guard and Radiant Archer
+aurelia_weaver_academy,Aurelia,Weaver Academy,Production,220 Sunstone,140 Coin,780,2,Caster production,Light Weaver and High Weaver
+aurelia_solar_mirror,Aurelia,Solar Mirror Array,Tech,300 Sunstone,250 Coin,900,2,Empowers solar magic,Global vision pulse
+thalassia_tide_hall,Thalassia,Tide Hall,Command,320 Coral,160 Salt,1750,3,Main base,Workers and Tide Favor
+thalassia_whitewood_dock,Thalassia,Whitewood Dock,Naval Production,180 Coral,120 Salt,900,2,Ship production,Cutters and Galleons
+thalassia_coral_market,Thalassia,Coral Market,Economic,150 Coral,100 Coin,700,1,Trade income,Trade lane upgrades
+thalassia_mist_beacon,Thalassia,Mist Beacon,Defense,140 Coral,90 Salt,650,1,Fog and stealth support,Mist network
+ashlands_abyssal_rift,Ashlands,Abyssal Rift,Hazard,0,0,2000,6,Corruption source,Abyssal events
+ashlands_star_forge_ruin,Ashlands,Star-Forge Ruin,Objective,0,0,3000,7,Relic site,Boss encounter
