@@ -1,0 +1,10 @@
+id,name,tier,source,effect,risk_or_condition
+relic_star_forge_shard,Shard of the Star-Forge,Relic,Star-Forge Guardian,Unlocks one advanced hybrid technology,Requires holding relic site for extraction
+relic_anchor_chain_dreadfast,Anchor Chain of Dreadfast,Relic,Ferrum campaign objective,Improves defensive aura for Ferrum heroes,None
+relic_twin_sun_seal,Twin Sun Seal,Relic,Aurelian solar temple,Improves purification and solar shields,Weaker during ash storms
+relic_tide_pearl_aethelgard,Tide Pearl of Aethelgard,Relic,Thalassian sea vault,Reveals sea routes periodically,Requires active port network
+relic_abyssal_core,Sealed Abyssal Core,Forbidden Relic,Abyssal Colossus,Unlocks powerful corruption tech,Increases Heart Pulse frequency
+item_forge_bracer,Forge Bracer,Uncommon,Neutral camp,+1 armor and repair bonus,None
+item_dawn_lens,Dawn Lens,Uncommon,Sunstone shrine,Spell range bonus,None
+item_coral_compass,Coral Compass,Uncommon,Trade post,Movement bonus near water,None
+item_ash_filter_mask,Ash Filter Mask,Uncommon,Ashlands camp,Environmental damage reduction,None
