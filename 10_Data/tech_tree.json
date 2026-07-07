@@ -1,0 +1,80 @@
+{
+  "ferrum": {
+    "tiers": [
+      {
+        "id": "ferrum_t1_survival_forge",
+        "name": "Survival Forge",
+        "structures": ["Iron Hall", "Forge Yard", "Coal Silo", "Watch Post"],
+        "units": ["Forge Hand", "Ash Militia", "Iron Guard", "Ash Crossbowmen"],
+        "research": ["Reinforced Tools", "Ash Filters", "Iron Discipline"]
+      },
+      {
+        "id": "ferrum_t2_war_foundry",
+        "name": "War Foundry",
+        "requirements": ["Great Furnace", "2 resource nodes"],
+        "structures": ["Siege Foundry", "Anvil Shrine", "Iron Bastion"],
+        "units": ["Forge Pike", "Forge Engineer", "Cannon Battery", "Steam Ram"],
+        "research": ["Plate Harness", "Coal Pressure Valves", "Reinforced Roads", "Field Barricades"]
+      },
+      {
+        "id": "ferrum_t3_dominion_arsenal",
+        "name": "Dominion Arsenal",
+        "requirements": ["Upgraded Iron Hall", "Great Furnace", "Siege Foundry", "Anvil Shrine"],
+        "units": ["Rustbreaker", "Ironclad Walker", "Heavy Cannon Platform", "Ironclad Gunboat"],
+        "research": ["Purified Iron", "Deep Boilers", "Magnetic Harness", "Forge Heat Capacitors"]
+      }
+    ]
+  },
+  "aurelia": {
+    "tiers": [
+      {
+        "id": "aurelia_t1_solar_order",
+        "name": "Solar Order",
+        "structures": ["Solar Forum", "Radiant Barracks", "Sunstone Chapel", "Imperial Road Marker"],
+        "units": ["Sun Mason", "Solar Guard", "Sun Spearman", "Radiant Archer"],
+        "research": ["Imperial Drills", "Sunstone Harvesting", "Road Authority"]
+      },
+      {
+        "id": "aurelia_t2_crystal_doctrine",
+        "name": "Crystal Doctrine",
+        "requirements": ["Sunstone Chapel", "Imperial Road network", "Sunstone Shrine"],
+        "structures": ["Weaver Academy", "Crystal Yard", "Dawn Tower"],
+        "units": ["Light Weaver", "Imperial Lancer", "Sunstone Ballista"],
+        "research": ["Radiant Shields", "Crystal Lenses", "Dawn Charge", "Purity Rites"]
+      },
+      {
+        "id": "aurelia_t3_twin_sun_ascendancy",
+        "name": "Twin Sun Ascendancy",
+        "requirements": ["Upgraded Solar Forum", "Weaver Academy", "Solar Mirror Array"],
+        "units": ["High Weaver", "Dawnblade", "Crystal Sentinel"],
+        "research": ["Twin Sun Alignment", "Starlight Refraction", "Imperial Mandate", "Purging Radiance"]
+      }
+    ]
+  },
+  "thalassia": {
+    "tiers": [
+      {
+        "id": "thalassia_t1_harbor_compact",
+        "name": "Harbor Compact",
+        "structures": ["Tide Hall", "Reef Barracks", "Whitewood Dock", "Coral Market"],
+        "units": ["Tidewright", "Coral Guard", "Tide Spearman", "Mist Skirmisher", "Whitewood Cutter"],
+        "research": ["Salt Contracts", "Coral Tools", "Harbor Signals"]
+      },
+      {
+        "id": "thalassia_t2_tidecraft",
+        "name": "Tidecraft",
+        "requirements": ["Coral Market", "controlled port or trade lane"],
+        "structures": ["Weaver Basin", "Mist Beacon", "Grand Dock"],
+        "units": ["Water Weaver", "Reef Engineer", "Pearl Barge", "Tide Galleon"],
+        "research": ["Mist Nets", "Reef Barriers", "Current Sails", "Canal Doctrine"]
+      },
+      {
+        "id": "thalassia_t3_grand_sea_mandate",
+        "name": "Grand Sea Mandate",
+        "requirements": ["Upgraded Tide Hall", "Grand Dock", "2 active trade lanes"],
+        "units": ["Pearlguard", "Stormcaller Weaver", "Grand Galleon", "Tidal Siege Platform"],
+        "research": ["Pearl Oath", "Deep Current Maps", "Tidal Supremacy", "Saltwater Ward"]
+      }
+    ]
+  }
+}
