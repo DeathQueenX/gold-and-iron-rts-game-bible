@@ -1,0 +1,68 @@
+[
+  {
+    "id": "m01_weight_of_gold",
+    "act": 1,
+    "name": "The Weight of Gold",
+    "playableFaction": "Aurelia",
+    "biome": "Sunlit Plains / Border Outpost",
+    "primarySystems": ["selection", "movement", "formation discipline", "basic combat"],
+    "primaryObjective": "Secure the border outpost and protect the Sun Mason workers.",
+    "secondaryObjectives": ["Keep all workers alive", "Recover supply crates"],
+    "reward": "Solar Guard formation upgrade"
+  },
+  {
+    "id": "m02_whispering_gorge",
+    "act": 1,
+    "name": "Whispering Gorge",
+    "playableFaction": "Aurelia",
+    "biome": "Border Canyon",
+    "primarySystems": ["fog of war", "ambush detection", "retreat routes"],
+    "primaryObjective": "Survive the ambush and retreat through the canyon.",
+    "secondaryObjectives": ["Recover sealed dispatches", "Keep Aria above 50 percent HP"],
+    "reward": "Light Weaver support unlock"
+  },
+  {
+    "id": "m03_iron_and_ash",
+    "act": 1,
+    "name": "Iron and Ash",
+    "playableFaction": "Ferrum",
+    "biome": "Iron Mountains",
+    "primarySystems": ["heavy infantry", "chokepoints", "captured supplies"],
+    "primaryObjective": "Escort captured supplies back toward Dreadfast.",
+    "secondaryObjectives": ["Preserve 70 percent of Iron Guard", "Destroy Aurelian watch posts"],
+    "reward": "Iron Guard veteran upgrade"
+  },
+  {
+    "id": "m04_dreadfast_must_hold",
+    "act": 1,
+    "name": "Dreadfast Must Hold",
+    "playableFaction": "Ferrum",
+    "biome": "Volcanic Fortress",
+    "primarySystems": ["base building", "towers", "repair", "siege defense"],
+    "primaryObjective": "Hold Dreadfast until the final wave breaks.",
+    "secondaryObjectives": ["Save mining families", "Keep Great Furnace intact"],
+    "reward": "Iron Bastion unlocked"
+  },
+  {
+    "id": "m08_iron_tide",
+    "act": 2,
+    "name": "Iron Tide",
+    "playableFaction": "Ferrum",
+    "biome": "Southern Delta",
+    "primarySystems": ["naval combat", "ironclads", "mixed land sea control"],
+    "primaryObjective": "Break the Thalassian blockade.",
+    "secondaryObjectives": ["Sink the flagship escort", "Protect prototype ironclad"],
+    "reward": "Ironclad Gunboat unlocked"
+  },
+  {
+    "id": "m12_heart_of_fire",
+    "act": 5,
+    "name": "Heart of Fire",
+    "playableFaction": "Alliance",
+    "biome": "Great Caldera",
+    "primarySystems": ["boss phases", "corruption containment", "multi-front defense"],
+    "primaryObjective": "Defeat or seal the Heart Avatar.",
+    "secondaryObjectives": ["Keep all containment pylons active", "Prevent total corruption over 70 percent"],
+    "reward": "Campaign ending branch"
+  }
+]
