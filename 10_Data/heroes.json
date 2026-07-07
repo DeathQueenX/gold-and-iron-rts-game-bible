@@ -1,0 +1,62 @@
+[
+  {
+    "id": "hero_valen",
+    "name": "Valen",
+    "faction": "Ferrum",
+    "class": "TankController",
+    "primaryAttribute": "Strength",
+    "hp": 1250,
+    "mana": 220,
+    "armor": 8,
+    "attack": 58,
+    "range": "Melee",
+    "speed": "Low",
+    "abilities": ["Iron Anchor", "Magnetic Break", "Rusted Guard", "Heart of Iron"],
+    "roleNotes": "Frontline anchor for choke control and defensive pushes."
+  },
+  {
+    "id": "hero_aria_vance",
+    "name": "Aria Vance",
+    "faction": "Aurelia/Ferrum Alliance",
+    "class": "SupportController",
+    "primaryAttribute": "Intelligence",
+    "hp": 780,
+    "mana": 520,
+    "armor": 2,
+    "attack": 31,
+    "range": 550,
+    "speed": "Medium",
+    "abilities": ["Golden Thread", "Gravity Knot", "Starlight Dome", "Convergence of Gold and Iron"],
+    "roleNotes": "Anti-corruption support and gravity control."
+  },
+  {
+    "id": "hero_prince_vian",
+    "name": "Prince Vian",
+    "faction": "Thalassia",
+    "class": "DuelistController",
+    "primaryAttribute": "Agility",
+    "hp": 920,
+    "mana": 420,
+    "armor": 4,
+    "attack": 46,
+    "range": "Melee",
+    "speed": "High",
+    "abilities": ["Tide Step", "Pressure Blade", "Rising Wall", "Crown of Tides"],
+    "roleNotes": "Mobile water-control hero strongest near coast and rivers."
+  },
+  {
+    "id": "hero_emperor_solon",
+    "name": "Emperor Solon",
+    "faction": "Aurelia",
+    "class": "ImperialCaster",
+    "primaryAttribute": "Intelligence",
+    "hp": 840,
+    "mana": 620,
+    "armor": 3,
+    "attack": 35,
+    "range": 600,
+    "speed": "Medium",
+    "abilities": ["Imperial Decree", "Solar Edict", "Purity Mandate", "Siphon of the Twin Suns"],
+    "roleNotes": "Formation commander and solar strike enabler."
+  }
+]
