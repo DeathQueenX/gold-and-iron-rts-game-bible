@@ -1,0 +1,18 @@
+id,faction,name,class,role,cost_primary,cost_secondary,hp,armor,damage,range,speed,notes
+ferrum_forge_hand,Ferrum,Forge Hand,Worker,Builder/Repair,50 Iron,0,220,0,6,Melee,Medium,Builds and repairs Ferrum structures
+ferrum_ash_militia,Ferrum,Ash Militia,Light Infantry,Early defense,65 Iron,0,310,1,12,Melee,Medium,Cheap defensive unit
+ferrum_iron_guard,Ferrum,Iron Guard,Heavy Infantry,Frontline,120 Iron,20 Coal,620,5,28,Melee,Slow,Core Ferrum tank infantry
+ferrum_forge_pike,Ferrum,Forge Pike,Anti-Cavalry,Line holder,105 Iron,10 Coal,520,3,22,Melee,Slow,Brace against charges
+ferrum_ash_crossbow,Ferrum,Ash Crossbowmen,Ranged,Armor pierce,95 Iron,0,360,1,18,520,Medium,Can reduce armor with Black Bolt
+ferrum_forge_engineer,Ferrum,Forge Engineer,Support,Repair/Siege support,110 Iron,30 Coal,300,1,8,Melee,Medium,Deploys barricades and repairs
+ferrum_cannon_battery,Ferrum,Cannon Battery,Siege,Anti-building,180 Iron,120 Coal,480,2,85,900,Very Slow,Requires setup
+ferrum_steam_ram,Ferrum,Steam Ram,Mechanical,Gate breaker,220 Iron,160 Coal,950,7,60,Melee,Slow,Can overheat after charge
+ferrum_rustbreaker,Ferrum,Rustbreaker,Elite,Anti-Abyssal,240 Iron,80 Coal,780,6,42,Melee,Medium,Cleanses rust stacks
+aurelia_solar_guard,Aurelia,Solar Guard,Infantry,Disciplined frontline,90 Sunstone,40 Coin,430,3,24,Melee,Medium,Formation bonuses
+aurelia_radiant_archer,Aurelia,Radiant Archer,Ranged,Precision fire,85 Sunstone,50 Coin,290,1,20,620,Medium,Strong in daylight
+aurelia_light_weaver,Aurelia,Light Weaver,Caster,Support/Purify,130 Sunstone,80 Coin,260,0,10,550,Medium,Anti-corruption magic
+thalassia_coral_guard,Thalassia,Coral Guard,Infantry,Flexible frontline,80 Coral,40 Salt,390,2,20,Melee,Medium,Good near water
+thalassia_mist_skirmisher,Thalassia,Mist Skirmisher,Ranged,Harassment,75 Coral,50 Coin,270,0,17,500,Fast,Stealth in mist
+thalassia_tide_galleon,Thalassia,Tide Galleon,Naval Heavy,Sea control,220 Coral,180 Salt,1100,4,72,760,Medium,Naval dominance
+ashlands_rust_beast,Ashlands,Rust Beast,Monster,Creep pressure,0,0,680,3,36,Melee,Medium,Spreads rust debuff
+ashlands_abyssal_colossus,Ashlands,Abyssal Colossus,Boss,Map boss,0,0,5000,10,120,Melee,Slow,Guards high-tier relics
