@@ -1,0 +1,7 @@
+id,name,type,used_by
+iron,Iron,Primary,Ferrum
+coal,Coal,Primary,Ferrum
+sunstone,Sunstone,Primary,Aurelia
+coral,Coral,Primary,Thalassia
+coin,Coin,Universal,All
+abyssal_crystal,Abyssal Crystal,Rare,Ashlands and late-game tech
