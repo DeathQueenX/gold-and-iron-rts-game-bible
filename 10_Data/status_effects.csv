@@ -1,0 +1,8 @@
+id,name,type,duration_seconds,max_stacks,effect,counter
+rust_stack,Rust Stack,Debuff,10,5,Reduces armor and repair efficiency,Purification or sulfur salve
+solar_burn,Solar Burn,Debuff,6,3,Damage over time and reveals target,Water shield or magic resistance
+mist_cloak,Mist Cloak,Buff,8,1,Reduces detection and ranged hit chance,Detection tower or reveal spell
+iron_anchor,Iron Anchor,Buff,8,1,Increases armor and knockback resistance,Armor penetration or displacement immunity bypass
+ash_blindness,Ash Blindness,Debuff,7,2,Reduces vision and ranged accuracy,Purification or retreat from ash zone
+tide_drag,Tide Drag,Debuff,5,3,Slows movement near water,Unstoppable or dry terrain
+corruption_exposure,Corruption Exposure,Debuff,15,10,Periodic damage and ability penalties,Containment structures and cleansing
