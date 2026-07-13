@@ -1,0 +1,6 @@
+ID,Hero,Faction,Class,PrimaryAttribute,HP,Mana,Armor,Attack,Role
+HER001,Valen,Ferrum,Tank,Strength,1250,220,8,58,Frontline
+HER002,Captain Brand,Ferrum,Commander,Strength,980,260,5,44,Support
+HER003,Aria Vance,Aurelia,Support,Intelligence,780,520,2,31,Control
+HER004,Emperor Solon,Aurelia,Caster,Intelligence,840,620,3,35,Commander
+HER005,Prince Vian,Thalassia,Duelist,Agility,920,420,4,46,Mobile
