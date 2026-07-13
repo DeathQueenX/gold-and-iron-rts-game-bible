@@ -1,0 +1,6 @@
+Level,XPRequired,Bonus
+Recruit,0,None
+Veteran,250,+5% Damage +5% Armor
+Elite,700,+10% Damage +10% HP
+Champion,1500,+15% Damage +10% Speed
+Legend,3000,+20% Damage +15% HP +Special Badge
