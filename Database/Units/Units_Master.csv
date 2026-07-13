@@ -1,0 +1,10 @@
+ID,Faction,Class,Tier,Name,HP,Armor,Attack,Range,Speed,PrimaryCost,SecondaryCost,Population,Role
+FER001,Ferrum,Worker,1,Forge Hand,220,0,6,Melee,Medium,50 Iron,,1,Builder
+FER002,Ferrum,Infantry,1,Iron Guard,620,5,28,Melee,Slow,120 Iron,20 Coal,2,Tank
+FER003,Ferrum,Ranged,1,Ash Crossbowmen,360,1,18,520,Medium,95 Iron,,2,Ranged
+AUR001,Aurelia,Worker,1,Sun Mason,200,0,5,Melee,Medium,50 Sunstone,,1,Builder
+AUR002,Aurelia,Infantry,1,Solar Guard,430,3,24,Melee,Medium,90 Sunstone,40 Coin,2,Infantry
+AUR003,Aurelia,Ranged,1,Radiant Archer,290,1,20,620,Medium,85 Sunstone,50 Coin,2,Ranged
+THA001,Thalassia,Worker,1,Tidewright,210,0,5,Melee,Medium,50 Coral,,1,Builder
+THA002,Thalassia,Infantry,1,Coral Guard,390,2,20,Melee,Medium,80 Coral,40 Salt,2,Infantry
+THA003,Thalassia,Ranged,1,Mist Skirmisher,270,0,17,500,Fast,75 Coral,50 Coin,2,Harass
