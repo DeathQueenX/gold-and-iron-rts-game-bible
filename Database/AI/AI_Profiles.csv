@@ -1,0 +1,7 @@
+ID,Profile,Priority,Economy,Aggression,Expansion,HeroUsage
+AI001,Turtle,Defense,High,Low,Low,Conservative
+AI002,Balanced,Standard,Medium,Medium,Medium,Adaptive
+AI003,Rush,Military,Low,High,Low,Aggressive
+AI004,Boom,Economy,Very High,Low,High,Support
+AI005,Naval,Sea Control,Medium,Medium,Medium,Naval Focus
+AI006,Ashlands,Corruption,Medium,Very High,High,Relentless
