@@ -1,0 +1,6 @@
+ID,Formation,Frontage,Depth,Bonus,Penalty
+FORM001,Line,Wide,Shallow,Ranged efficiency,Weak flanks
+FORM002,Shield Wall,Narrow,Deep,Armor and block,Slow movement
+FORM003,Wedge,Narrow,Medium,Charge damage,Low defense after impact
+FORM004,Skirmish,Loose,Loose,Missile avoidance,Lower melee power
+FORM005,Circle,Compact,Compact,360 defense,Reduced speed
