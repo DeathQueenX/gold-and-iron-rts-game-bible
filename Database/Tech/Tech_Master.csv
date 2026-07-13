@@ -1,0 +1,7 @@
+ID,Faction,Tier,Technology,Requirements,Effect
+TECH_F001,Ferrum,1,Reinforced Tools,Forge Yard,Workers gather Iron 15% faster
+TECH_F002,Ferrum,2,Plate Harness,Great Furnace,Infantry +1 Armor
+TECH_A001,Aurelia,1,Imperial Drills,Radiant Barracks,Formation bonus +10%
+TECH_A002,Aurelia,2,Radiant Shields,Weaver Academy,Spell resistance +15%
+TECH_T001,Thalassia,1,Salt Contracts,Coral Market,Naval upkeep -10%
+TECH_T002,Thalassia,2,Current Sails,Grand Dock,Ships move 15% faster
