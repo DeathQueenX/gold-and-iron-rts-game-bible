@@ -1,0 +1,9 @@
+ID,Name,Category,MaxStockpile,UsedFor,Rarity
+RES001,Iron,Primary,99999,Units Buildings Upgrades,Common
+RES002,Coal,Primary,99999,Industry Siege,Common
+RES003,Sunstone,Primary,99999,Magic Elite Units,Uncommon
+RES004,Coral,Primary,99999,Naval Units Buildings,Uncommon
+RES005,Coin,Universal,99999,Trade Mercenaries Research,Common
+RES006,Abyssal Crystal,Rare,9999,Forbidden Tech Bosses,Legendary
+RES007,Food,Support,99999,Population,Common
+RES008,Wood,Primary,99999,Construction Siege,Common
