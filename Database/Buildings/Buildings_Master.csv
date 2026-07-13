@@ -1,0 +1,10 @@
+ID,Faction,Name,Tier,HP,Armor,PrimaryCost,SecondaryCost,BuildTime,Power,Category,Produces
+FER_B001,Ferrum,Iron Hall,1,5000,10,400 Iron,100 Coal,90,0,TownCenter,Workers Heroes
+FER_B002,Ferrum,Forge Yard,1,2200,6,180 Iron,40 Coal,45,0,Barracks,Infantry
+FER_B003,Ferrum,Great Furnace,2,2600,8,250 Iron,120 Coal,70,10,Tech,Research
+AUR_B001,Aurelia,Solar Forum,1,4600,8,380 Sunstone,120 Coin,90,0,TownCenter,Workers Heroes
+AUR_B002,Aurelia,Radiant Barracks,1,2000,4,170 Sunstone,60 Coin,45,0,Barracks,Infantry
+AUR_B003,Aurelia,Weaver Academy,2,1800,3,220 Sunstone,140 Coin,60,5,Caster,Casters
+THA_B001,Thalassia,Tide Hall,1,4300,7,350 Coral,150 Coin,90,0,TownCenter,Workers Heroes
+THA_B002,Thalassia,Reef Barracks,1,1900,3,160 Coral,70 Coin,45,0,Barracks,Infantry
+THA_B003,Thalassia,Whitewood Dock,1,2100,3,200 Coral,120 Coin,55,0,Dock,Ships
