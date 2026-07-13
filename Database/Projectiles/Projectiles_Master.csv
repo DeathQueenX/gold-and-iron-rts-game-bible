@@ -1,0 +1,7 @@
+ID,Name,Speed,Arc,DamageType,FX,HitEffect
+PRJ001,Arrow,32,No,Pierce,fx_arrow,hit_flesh
+PRJ002,Crossbow Bolt,38,No,Pierce,fx_bolt,hit_metal
+PRJ003,Fire Orb,18,Yes,Magic,fx_fireball,explosion_small
+PRJ004,Siege Stone,12,Yes,Siege,fx_boulder,impact_large
+PRJ005,Sun Lance,40,No,Magic,fx_sunlance,solar_burst
+PRJ006,Coral Spear,30,No,Pierce,fx_coral,water_splash
