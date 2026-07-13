@@ -1,0 +1,7 @@
+ID,Target,Upgrade,Level,Cost,Effect
+UPG001,Iron Guard,Tempered Armor,1,150 Iron,+1 Armor
+UPG002,Ash Crossbowmen,Steel Bolts,1,120 Iron,+15% Damage
+UPG003,Solar Guard,Radiant Plate,1,150 Sunstone,+1 Armor
+UPG004,Radiant Archer,Crystal Tips,1,130 Sunstone,+1 Range Tier
+UPG005,Coral Guard,Reef Shields,1,140 Coral,+10% HP
+UPG006,Mist Skirmisher,Deep Mist Training,1,120 Coral,+Stealth Duration
