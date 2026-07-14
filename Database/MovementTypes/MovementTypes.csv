@@ -1,0 +1,6 @@
+ID,MovementType,Description
+MOV001,Ground,Standard land movement
+MOV002,Naval,Water only
+MOV003,Flying,Ignores terrain
+MOV004,Amphibious,Land and shallow water
+MOV005,Siege,Slow heavy movement
