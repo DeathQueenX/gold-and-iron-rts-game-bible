@@ -1,0 +1,6 @@
+ID,DamageType,Description
+DMG001,Slash,Swords axes claws
+DMG002,Pierce,Arrows bolts spears
+DMG003,Siege,Catapults cannons rams
+DMG004,Magic,Spells and energy
+DMG005,Corruption,Ashlands corruption damage
