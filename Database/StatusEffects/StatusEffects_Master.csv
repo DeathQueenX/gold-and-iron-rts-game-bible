@@ -1,0 +1,8 @@
+ID,Name,Type,DurationSeconds,MaxStacks,Effect,Counter
+STATUS001,Rust Stack,Debuff,10,5,Reduces armor and repair efficiency,Purification or Sulfur Salve
+STATUS002,Solar Burn,Debuff,6,3,Deals damage over time and reveals the target,Water shield or magic resistance
+STATUS003,Mist Cloak,Buff,8,1,Reduces detection and ranged hit chance,Detection tower or reveal ability
+STATUS004,Iron Anchor,Buff,8,1,Increases armor and knockback resistance,Armor penetration or displacement bypass
+STATUS005,Ash Blindness,Debuff,7,2,Reduces vision and ranged accuracy,Purification or leaving the ash zone
+STATUS006,Tide Drag,Debuff,5,3,Slows movement near water,Unstoppable state or dry terrain
+STATUS007,Corruption Exposure,Debuff,15,10,Applies periodic damage and ability penalties,Containment structures and cleansing
