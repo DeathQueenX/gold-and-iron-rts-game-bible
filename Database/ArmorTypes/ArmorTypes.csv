@@ -1,0 +1,6 @@
+ID,ArmorType,StrongAgainst,WeakAgainst
+ARM001,Light,Pierce,Slash
+ARM002,Medium,Slash,Magic
+ARM003,Heavy,Slash,Siege
+ARM004,Fortified,Ranged,Siege
+ARM005,Hero,Balanced,Corruption
