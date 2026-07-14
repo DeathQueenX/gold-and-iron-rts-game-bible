@@ -1,7 +1,8 @@
 ID,Name,Faction,Type,Cooldown,Mana,Duration,Target,Description
-ABL001,Iron Anchor,Ferrum,Active,18,40,8,Self,Increase armor and knockback resistance
-ABL002,Magnetic Break,Ferrum,Active,22,60,0,Area,Pull nearby enemies
-ABL003,Golden Thread,Aurelia,Active,16,50,10,Ally,Link allies with defensive bonus
-ABL004,Solar Edict,Aurelia,Ultimate,90,120,12,Area,Summon radiant energy
+ABL001,Iron Anchor,Ferrum,Active,28,40,8,Self,Increase armor and knockback resistance
+ABL002,Magnetic Break,Ferrum,Active,35,60,0,Area,Pull nearby metal-equipped enemies
+ABL003,Golden Thread,Aurelia,Active,18,50,12,Ally,Link an ally with healing and debuff resistance
+ABL004,Solar Edict,Aurelia,Active,32,70,0,Area,Telegraphed solar strike on a target area
 ABL005,Mist Cloak,Thalassia,Active,20,45,8,Area,Create stealth mist
 ABL006,Tidal Shield,Thalassia,Active,24,70,10,Ally,Absorb incoming damage
+ABL007,Siphon of the Twin Suns,Aurelia,Ultimate,180,160,8,Area,Channel a large solar attack while the caster remains vulnerable
