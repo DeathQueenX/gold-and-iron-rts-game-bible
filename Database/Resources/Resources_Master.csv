@@ -1,9 +1,10 @@
-ID,Name,Category,MaxStockpile,UsedFor,Rarity
-RES001,Iron,Primary,99999,Units Buildings Upgrades,Common
-RES002,Coal,Primary,99999,Industry Siege,Common
-RES003,Sunstone,Primary,99999,Magic Elite Units,Uncommon
-RES004,Coral,Primary,99999,Naval Units Buildings,Uncommon
-RES005,Coin,Universal,99999,Trade Mercenaries Research,Common
-RES006,Abyssal Crystal,Rare,9999,Forbidden Tech Bosses,Legendary
-RES007,Food,Support,99999,Population,Common
-RES008,Wood,Primary,99999,Construction Siege,Common
+ID,Name,Category,MaxStockpile,UsedFor,Rarity,Status
+RES001,Iron,Primary,99999,Ferrum units buildings and upgrades,Common,Canonical
+RES002,Coal,Primary,99999,Ferrum industry siege and steam technology,Common,Canonical
+RES003,Sunstone,Primary,99999,Aurelia magic elite units and solar technology,Uncommon,Canonical
+RES004,Coral,Primary,99999,Thalassia naval units buildings and water technology,Uncommon,Canonical
+RES005,Coin,Universal,99999,Trade mercenaries and research,Common,Canonical
+RES006,Abyssal Crystal,Rare,9999,Forbidden technology relics and boss systems,Legendary,Canonical
+RES007,Food,Support,99999,Population and supply,Common,Provisional
+RES008,Wood,Primary,99999,General construction and siege,Common,Provisional
+RES009,Salt,Primary,99999,Thalassia naval upkeep trade and preservation,Common,Canonical
