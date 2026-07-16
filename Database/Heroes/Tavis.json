@@ -1,0 +1,31 @@
+{
+  "id": "HER006",
+  "name": "Tavis",
+  "primaryFaction": "Neutral",
+  "affiliations": ["Aethelgard Academy", "Aethelgard Underworld", "Drowned Ring"],
+  "class": "AlchemistSaboteur",
+  "primaryAttribute": "Intelligence",
+  "stats": {
+    "hp": 640,
+    "mana": 500,
+    "armor": 1,
+    "attack": 22,
+    "range": 500,
+    "speed": "Medium"
+  },
+  "role": "Support/Sabotage",
+  "abilities": [
+    "Desiccant Compound",
+    "Forbidden Reagent",
+    "Academy Cipher",
+    "Thermal Collapse"
+  ],
+  "bookSources": [
+    {
+      "book": "A Court of Storm and Tide",
+      "chapter": 13
+    }
+  ],
+  "canonSummary": "Former Aethelgard Academy scholar and black-market alchemist operating in the Drowned Ring. Trades in forbidden lore, poison and intelligence about water-weaving, sun-stone defenses and Abyssal magic.",
+  "adaptationNote": "Combat abilities are RTS adaptations derived from his established knowledge and profession."
+}
