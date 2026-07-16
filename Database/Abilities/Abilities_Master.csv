@@ -6,3 +6,7 @@ ABL004,Solar Edict,Aurelia,Active,32,70,0,Area,Telegraphed solar strike on a tar
 ABL005,Mist Cloak,Thalassia,Active,20,45,8,Area,Create stealth mist
 ABL006,Tidal Shield,Thalassia,Active,24,70,10,Ally,Absorb incoming damage
 ABL007,Siphon of the Twin Suns,Aurelia,Ultimate,180,160,8,Area,Channel a large solar attack while the caster remains vulnerable
+ABL008,Desiccant Compound,Neutral,Active,24,55,8,Enemy,Reduces mana regeneration and weakens water-based abilities
+ABL009,Forbidden Reagent,Neutral,Active,18,45,6,Enemy,Applies an alchemical poison that reduces healing received
+ABL010,Academy Cipher,Neutral,Active,30,60,12,Enemy/Structure,Reveals magical defenses and increases damage received from counters
+ABL011,Thermal Collapse,Neutral,Ultimate,150,140,10,Area,Destabilizes water and solar defensive systems causing silence and damage over time
